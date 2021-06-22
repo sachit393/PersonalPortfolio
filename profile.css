@@ -20,3 +20,10 @@
 .contact{
   margin-bottom: 30px;
 }
+body{
+  background-image: url('portfolio-background.jpg');
+}
+.codeforces{
+  background-image: url('portfolio-background.jpg');
+
+}
